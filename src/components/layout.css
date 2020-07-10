@@ -1,5 +1,5 @@
-html {
-  font-family: Arial, Helvetica, sans-serif;
+/* html {
+  font-family: "Sporting Grotesque Reg", Helvetica, sans-serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
@@ -7,6 +7,7 @@ body {
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  font-family: "Sporting Grotesque Reg", sans-serif;
 }
 article,
 aside,
@@ -619,4 +620,4 @@ pre tt:after {
   html {
     font-size: 100%;
   }
-}
+} */

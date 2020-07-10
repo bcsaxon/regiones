@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "Sporting Grotesque Reg";
+  src: url("../fonts/SportingGrotesque-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Sporting Grotesque Bold";
+  src: url("../fonts//SportingGrotesque-Bold.ttf");
+}
+
+/* @font-face {
+  font-family: "Font Name";
+  src: url("../fonts/fontname.woff2");
+} */
