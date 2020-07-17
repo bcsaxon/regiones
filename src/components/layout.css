@@ -1,14 +1,20 @@
+body {
+  font-family: "Sporting Grotesque Reg", sans-serif;
+  color: green;
+  box-sizing: border-box;
+}
+
 /* html {
   font-family: "Sporting Grotesque Reg", Helvetica, sans-serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
-body {
+ body {
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-family: "Sporting Grotesque Reg", sans-serif;
-}
+} 
 article,
 aside,
 details,
